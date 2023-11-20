@@ -73,7 +73,7 @@ main .bold {
     font-size: 25px;
   }
 }
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 1025px) {
   main {
     height: 70%;
   }
